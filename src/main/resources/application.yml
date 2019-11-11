@@ -184,7 +184,7 @@ spring:
   datasource:
       name : geekcattle
       username  : root
-      password  : root
+      password  : 973584331
       url : jdbc:mysql://localhost:3306/geekcattle?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
   redis:
     database : 0
